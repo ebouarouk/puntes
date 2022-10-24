@@ -1,2 +1,2 @@
 test 
-gitgit stgit 
+gitgit stgit chec
